@@ -21,4 +21,5 @@ func main() {
 	for _, file := range files {
 		fmt.Print(file.Name(), " ")
 	}
+	//TODO adjust space for result.
 }
